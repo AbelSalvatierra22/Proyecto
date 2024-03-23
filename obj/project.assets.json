@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abel_\\Downloads\\gitProyecto\\Proyecto\\Proyecto.csproj",
-      "projectName": "Proyecto",
-      "projectPath": "C:\\Users\\abel_\\Downloads\\gitProyecto\\Proyecto\\Proyecto.csproj",
+      "projectUniqueName": "C:\\Users\\abel_\\Downloads\\TechSt0re\\TechSt0re.csproj",
+      "projectName": "TechSt0re",
+      "projectPath": "C:\\Users\\abel_\\Downloads\\TechSt0re\\TechSt0re.csproj",
       "packagesPath": "C:\\Users\\abel_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abel_\\Downloads\\gitProyecto\\Proyecto\\obj\\",
+      "outputPath": "C:\\Users\\abel_\\Downloads\\TechSt0re\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abel_\\AppData\\Roaming\\NuGet\\NuGet.Config"

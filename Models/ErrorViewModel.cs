@@ -1,4 +1,4 @@
-namespace Proyecto.Models;
+namespace TechSt0re.Models;
 
 public class ErrorViewModel
 {
